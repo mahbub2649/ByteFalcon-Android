@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Files the app may hand to viewer apps: internal shared storage and SD cards / USB drives. -->
+<paths>
+    <external-path name="storage" path="." />
+    <root-path name="volumes" path="/storage" />
+</paths>
